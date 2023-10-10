@@ -1,0 +1,26 @@
+.delete {
+  width: 50px;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+.delete img {
+  width: 30px;
+}
+.item-card {
+  text-align: flex-start;
+  position: relative;
+  border: 1px solid #cbd5e1;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 30px;
+  padding-right: 20px;
+  list-style-type: none;
+}
+.title-box {
+  width: 80px;
+}
+.amount-box {
+  width: 80px;
+}
